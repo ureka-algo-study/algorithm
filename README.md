@@ -92,6 +92,7 @@ algorithm/
 |김재우|SLug801|java, C|브론즈2|
 |박준서|devjohnpark|java|실버3|
 |이호성|leehosss|python, java|Unrated|
+|이진희|gyulhongsy|java|실버5|
 
 
 
