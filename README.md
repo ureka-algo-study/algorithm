@@ -90,7 +90,7 @@ algorithm/
 |이경주|rudwnlee2|java|골드3|
 |정민주|alswn874|java|브론즈1|
 |김재우|SLug801|java, C|브론즈2|
-
+|박준서|devjohnpark|java|실버3|
 
 
 
