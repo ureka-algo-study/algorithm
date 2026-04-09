@@ -89,7 +89,7 @@ algorithm/
 |소서아|jayakeie|java|Unrated|
 |이경주|rudwnlee2|java|골드3|
 |정민주|alswn874|java|브론즈1|
-
+|박준서|devjohnpark|java|실버3|
 
 
 
