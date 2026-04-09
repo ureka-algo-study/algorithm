@@ -94,6 +94,7 @@ algorithm/
 |이호성|leehosss|python, java|Unrated|
 |이진희|gyulhongsy|java|실버5|
 |김어진|uhjin1130|java|골드3|
+|석종수|Seok-Soo|java|브론즈5|
 
 
 
