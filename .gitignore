@@ -1,1 +1,38 @@
 /.metadata/
+# === Java & Build Outputs ===
+
+bin/
+out/
+target/
+build/
+.gradle/
+*.class
+*.log
+*.tmp
+
+# === IntelliJ IDEA ===
+
+.idea/
+*.iml
+*.iws
+*.ipr
+cmake-build-*/
+
+# === VS Code ===
+
+.vscode/
+
+# === OS & System ===
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# === Build Tools ===
+
+.mvn/
+
+# === Environment ===
+
+.env
+*.env
