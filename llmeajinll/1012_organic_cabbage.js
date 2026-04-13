@@ -29,21 +29,21 @@ for (let t = 0; t < T; t++) {
 
         // 반복문(Stack) 기반 DFS로 스택 오버플로우 방지
         const stack = [[x, y]];
-        console.log('stack : ', stack);
+        // console.log('stack : ', stack);
         farm[y][x] = 0; // 방문 처리
 
         while (stack.length > 0) {
           const [currX, currY] = stack.pop();
-          console.log(`currX, currY: ${currX}, ${currY}`);
+          //   console.log(`currX, currY: ${currX}, ${currY}`);
           for (let d = 0; d < 4; d++) {
             const nx = currX + dx[d];
             const ny = currY + dy[d];
 
-            console.log(`nx, ny: ${nx}, ${ny}`);
+            // console.log(`nx, ny: ${nx}, ${ny}`);
             if (nx >= 0 && nx < M && ny >= 0 && ny < N && farm[ny][nx] === 1) {
               farm[ny][nx] = 0; // 방문 처리
               stack.push([nx, ny]);
-              console.log('stack : ', stack, '\n');
+              //   console.log('stack : ', stack, '\n');
             }
           }
         }
